@@ -7,7 +7,7 @@ h1 {
 body {
   counter-reset: game;
   text-align: center;
-  background: #e9b58b;
+  background: #2f4f4f;
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   color: #333; }
 
@@ -39,7 +39,7 @@ h2 {
   from {
     transform: translateY(0); }
   to {
-    transform: translateY(-72vh); } }
+    transform: translateY(-480px); } }
 .game-area {
   display: flex;
   flex-flow: wrap;
@@ -58,23 +58,23 @@ li {
   outline: 4px solid white;
   background: #64ddf3; }
   li:nth-child(1) input {
-    animation-duration: 1.4833908273s; }
+    animation-duration: 2.6574969721s; }
   li:nth-child(2) input {
-    animation-duration: 2.8884275861s; }
+    animation-duration: 4.7819557303s; }
   li:nth-child(3) input {
-    animation-duration: 2.2767363823s; }
+    animation-duration: 1.7349512288s; }
   li:nth-child(4) input {
-    animation-duration: 3.3689456951s; }
+    animation-duration: 3.6904239317s; }
   li:nth-child(5) input {
-    animation-duration: 3.2152268445s; }
+    animation-duration: 2.9338998241s; }
   li:nth-child(6) input {
-    animation-duration: 3.3898479472s; }
+    animation-duration: 1.5488882716s; }
   li:nth-child(7) input {
-    animation-duration: 1.6007446509s; }
+    animation-duration: 3.2101890895s; }
   li:nth-child(8) input {
-    animation-duration: 1.8768095525s; }
+    animation-duration: 0.5271207714s; }
   li:nth-child(9) input {
-    animation-duration: 4.2505066861s; }
+    animation-duration: 0.5566387116s; }
 
 input[type="checkbox"] {
   width: 50px;
