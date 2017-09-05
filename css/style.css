@@ -39,7 +39,7 @@ h2 {
   from {
     transform: translateY(0); }
   to {
-    transform: translateY(-590px); } }
+    transform: translateY(-480px); } }
 .game-area {
   display: flex;
   flex-flow: wrap;
@@ -58,23 +58,23 @@ li {
   outline: 4px solid white;
   background: #64ddf3; }
   li:nth-child(1) input {
-    animation-duration: 4.3179668894s; }
+    animation-duration: 2.2122114282s; }
   li:nth-child(2) input {
-    animation-duration: 2.0618067997s; }
+    animation-duration: 1.7293964823s; }
   li:nth-child(3) input {
-    animation-duration: 2.438138829s; }
+    animation-duration: 2.2667055541s; }
   li:nth-child(4) input {
-    animation-duration: 0.5687901826s; }
+    animation-duration: 3.4813766603s; }
   li:nth-child(5) input {
-    animation-duration: 2.1549972087s; }
+    animation-duration: 4.9447478741s; }
   li:nth-child(6) input {
-    animation-duration: 3.5993625769s; }
+    animation-duration: 0.1437420958s; }
   li:nth-child(7) input {
-    animation-duration: 2.9647177185s; }
+    animation-duration: 2.4387234947s; }
   li:nth-child(8) input {
-    animation-duration: 2.702333284s; }
+    animation-duration: 3.6960166591s; }
   li:nth-child(9) input {
-    animation-duration: 3.1918838777s; }
+    animation-duration: 4.725639693s; }
 
 input[type="checkbox"] {
   width: 50px;

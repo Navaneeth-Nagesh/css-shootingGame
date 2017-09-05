@@ -47,7 +47,7 @@ h2 {
         transform: translateY(0);
     }
     to {
-        transform: translateY(-590px);
+        transform: translateY(-480px);
     }
 }
 
@@ -196,4 +196,7 @@ input[type="checkbox"] {
     font-size: 2.5em;
     font-weight: 700;
     text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+ 
 }
